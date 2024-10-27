@@ -1,8 +1,8 @@
 # 💫 Hey, I'm Danish
-<h3>An Aspiring <h2>Full stack Developer</h2></h3> 
+<h2>An Aspiring Developer</h2> 
 <ul>
   <li>🛩 Making small projects to boost my knowledge.</li>
-  <li>🏫 Currently Learning New Tech</li>
+  <li>🏫 Currently Learning C++</li>
   <li>🏠 Based in Pakistan</li>
 </ul>
 
