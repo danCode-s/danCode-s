@@ -2,7 +2,7 @@
 <h3>An Aspiring <h2>Full stack Developer</h2></h3> 
 <ul>
   <li>🛩 Making small projects to boost my knowledge.</li>
-  <li>🏫 Currently Learning React JS</li>
+  <li>🏫 Currently Learning New Tech</li>
   <li>🏠 Based in Pakistan</li>
 </ul>
 
